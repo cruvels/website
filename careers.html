@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Careers at Cruvels: Build scalable systems, software infrastructure, and digital products with our engineering teams."
+    />
+    <title>Careers | Cruvels</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Space+Grotesk:wght@500;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="ambient" aria-hidden="true">
+      <div class="ambient-grid"></div>
+      <div class="ambient-orb orb-a"></div>
+      <div class="ambient-orb orb-b"></div>
+      <div class="ambient-orb orb-c"></div>
+    </div>
+
+    <header class="site-header">
+      <div class="container nav-wrap">
+        <a class="brand" href="index.html" aria-label="Cruvels home">
+          <img src="cruvels-logo.png" alt="Cruvels logo" class="brand-logo-full" />
+        </a>
+
+        <button class="menu-toggle" aria-expanded="false" aria-controls="site-nav">Menu</button>
+
+        <nav id="site-nav" class="site-nav" aria-label="Primary">
+          <a href="index.html#model">Model</a>
+          <a href="index.html#services">Services</a>
+          <a href="index.html#products">Products</a>
+          <a href="careers.html">Careers</a>
+          <a href="index.html#contact">Contact</a>
+          <a class="pill-link" href="cru-public.html">Cru Product</a>
+        </nav>
+      </div>
+    </header>
+
+    <main>
+      <section class="hero reveal">
+        <div class="container">
+          <p class="eyebrow">Cruvels Careers</p>
+          <h1>Work on Systems That Need to Last</h1>
+          <p class="careers-intro">
+            We build software infrastructure, scalable platforms, and intelligent products.
+            Join a team focused on engineering depth, reliability, and long-term thinking.
+          </p>
+        </div>
+      </section>
+
+      <section class="section reveal">
+        <div class="container careers-grid">
+          <div>
+            <div class="section-head">
+              <p class="eyebrow">Open Roles</p>
+              <h2>Current Hiring Tracks</h2>
+            </div>
+            <div class="role-list">
+              <article class="role-card">
+                <h3>Senior Full-Stack Engineer</h3>
+                <p>Build scalable web systems, APIs, and production-grade application architecture.</p>
+                <span>Full-time | Remote / Hybrid</span>
+              </article>
+              <article class="role-card">
+                <h3>Platform Engineer (Cloud + DevOps)</h3>
+                <p>Own cloud infrastructure, deployment automation, observability, and reliability standards.</p>
+                <span>Full-time | Remote / Hybrid</span>
+              </article>
+              <article class="role-card">
+                <h3>Product Operations Analyst</h3>
+                <p>Support product workflows, release operations, governance controls, and reporting loops.</p>
+                <span>Full-time | Remote</span>
+              </article>
+            </div>
+          </div>
+
+          <form class="careers-form" novalidate>
+            <div class="section-head">
+              <p class="eyebrow">Apply / Express Interest</p>
+              <h2>Send Your Profile</h2>
+            </div>
+            <label>Full Name<input type="text" name="full_name" required /></label>
+            <label>Email Address<input type="email" name="email" required /></label>
+            <label>Role of Interest<input type="text" name="role_interest" required /></label>
+            <label>LinkedIn / Portfolio URL<input type="url" name="profile_url" required /></label>
+            <label>Short Note<textarea rows="4" name="note" required></textarea></label>
+            <button class="btn btn-primary" type="submit">Submit Application Interest</button>
+            <p class="careers-form-status" role="status" aria-live="polite"></p>
+          </form>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container footer-wrap">
+        <p>
+          <strong>Cruvels</strong><br />
+          India | Global Operations
+        </p>
+        <nav>
+          <a href="index.html">Cruvels</a>
+          <a href="careers.html">Careers</a>
+          <a href="cru-public.html">Cru</a>
+          <a href="legal.html">Legal</a>
+          <a href="privacy.html">Privacy</a>
+          <a href="compliance.html">Compliance</a>
+        </nav>
+      </div>
+    </footer>
+
+    <script src="script.js"></script>
+  </body>
+</html>

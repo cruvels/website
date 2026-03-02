@@ -1,0 +1,13 @@
+{
+  "name": "cruvel-website-local",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Local website + lead API for Cruvel and Cru",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "nodemailer": "^6.9.15"
+  }
+}
