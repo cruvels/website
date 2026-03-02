@@ -51,7 +51,7 @@ function wireLeadForm({ formSelector, statusSelector, type, sourcePage, successM
       statusText.style.color = '#9ae8be';
       form.reset();
     } catch (error) {
-      statusText.textContent = 'Submission failed. Please try again when the server is running.';
+      statusText.textContent = 'Submission failed. Please verify email configuration and try again.';
       statusText.style.color = '#ffd08a';
     }
   });

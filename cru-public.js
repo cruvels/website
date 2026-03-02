@@ -56,7 +56,7 @@ function wireForm(formSelector, statusSelector, okMessage) {
       statusEl.style.color = '#166b4e';
       form.reset();
     } catch (error) {
-      statusEl.textContent = 'Submission failed. Please try again when the server is running.';
+      statusEl.textContent = 'Submission failed. Please verify email configuration and try again.';
       statusEl.style.color = '#a47000';
     }
   });
