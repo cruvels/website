@@ -257,14 +257,39 @@ async function handleLeadSubmission(req, res) {
 }
 
 function filePathFromUrlPath(urlPath) {
-  if (urlPath === '/') return path.join(ROOT, 'index.html');
-  if (urlPath === '/cru') return path.join(ROOT, 'cru-public.html');
-  if (urlPath === '/careers') return path.join(ROOT, 'careers.html');
-  if (urlPath === '/legal') return path.join(ROOT, 'legal.html');
-  if (urlPath === '/privacy') return path.join(ROOT, 'privacy.html');
-  if (urlPath === '/compliance') return path.join(ROOT, 'compliance.html');
+  const cleanPolicyRoutes = {
+    '/cru-policies/privacy-policy': 'cru-policies/privacy-policy.html',
+    '/cru-policies/terms-of-service': 'cru-policies/terms-of-service.html',
+    '/cru-policies/community-guidelines': 'cru-policies/community-guidelines.html',
+    '/cru-policies/content-policy': 'cru-policies/content-policy.html',
+    '/cru-policies/ai-ethics-moderation-policy': 'cru-policies/ai-ethics-moderation-policy.html',
+    '/cru-policies/copyright-takedown-policy': 'cru-policies/copyright-takedown-policy.html',
+    '/cru-policies/minor-protection-policy': 'cru-policies/minor-protection-policy.html',
+    '/cru-policies/political-advertising-policy': 'cru-policies/political-advertising-policy.html',
+    '/cru-policies/grievance-redressal': 'cru-policies/grievance-redressal.html',
+    '/cru-policies/refund-payment-policy': 'cru-policies/refund-payment-policy.html',
+    '/cru-policies/data-retention-policy': 'cru-policies/data-retention-policy.html',
+    '/cru-policies/transparency-accountability-policy': 'cru-policies/transparency-accountability-policy.html',
+  };
+  const normalizedPath = urlPath.replace(/\/+$/, '') || '/';
 
-  const unsafe = path.normalize(decodeURIComponent(urlPath)).replace(/^([.][.][/\\])+/, '');
+  if (normalizedPath === '/') return path.join(ROOT, 'index.html');
+  if (normalizedPath === '/cru') return path.join(ROOT, 'cru-public.html');
+  if (normalizedPath === '/careers') return path.join(ROOT, 'careers.html');
+  if (normalizedPath === '/legal') return path.join(ROOT, 'legal.html');
+  if (normalizedPath === '/privacy') return path.join(ROOT, 'privacy.html');
+  if (normalizedPath === '/compliance') return path.join(ROOT, 'compliance.html');
+  if (cleanPolicyRoutes[normalizedPath]) return path.join(ROOT, cleanPolicyRoutes[normalizedPath]);
+
+  // Also support direct policy .html URLs on local server.
+  if (normalizedPath.startsWith('/cru-policies/') && normalizedPath.endsWith('.html')) {
+    return path.join(ROOT, normalizedPath.replace(/^\//, ''));
+  }
+
+  const unsafe = path
+    .normalize(decodeURIComponent(normalizedPath))
+    .replace(/^([.][.][/\\])+/, '')
+    .replace(/^[/\\]+/, '');
   return path.join(ROOT, unsafe);
 }
 

@@ -1,7 +1,6 @@
 <!doctype html>
 <html lang="en">
   <head>
-    <title>Cruvels</title>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta
@@ -9,8 +8,8 @@
       content="Cruvels engineers infrastructure-grade digital systems across infrastructure, governance, product systems, and AI."
     />
     <meta name="keywords" content="Cruvels, Cru, CRU, technology company, scalable systems, infrastructure engineering, governance tech, AI systems, product development, cloud architecture" />
-
     <meta name="author" content="Cruvels">
+    <link rel="canonical" href="https://cruvels.com/" />
     <link rel="icon" type="image/x-icon" href="web_icon.jpeg">
 
     <title>Cruvels | Infrastructure-Grade Systems</title>
@@ -22,11 +21,60 @@
     />
     <link rel="stylesheet" href="styles.css" />
 
-    <meta property="og:title" content="Cruvels">
-    <meta property="og:description" content="Engineering Infrastructure-Grade Digital Systems">
-    <meta property="og:image" content="https://cruvels.com/preview.png">
-    <meta property="og:url" content="https://cruvels.com">
-    <meta name="robots" content="index, follow">
+    <meta name="robots" content="index, follow" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Cruvels" />
+    <meta property="og:locale" content="en_IN" />
+    <meta property="og:title" content="Cruvels | Infrastructure-Grade Systems" />
+    <meta property="og:description" content="Cruvels engineers infrastructure-grade digital systems across infrastructure, governance, product systems, and AI." />
+    <meta property="og:image" content="https://cruvels.com/preview.png" />
+    <meta property="og:url" content="https://cruvels.com/" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Cruvels | Infrastructure-Grade Systems" />
+    <meta name="twitter:description" content="Cruvels engineers infrastructure-grade digital systems across infrastructure, governance, product systems, and AI." />
+    <meta name="twitter:image" content="https://cruvels.com/preview.png" />
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Organization",
+            "@id": "https://cruvels.com/#organization",
+            "name": "Cruvels",
+            "url": "https://cruvels.com/",
+            "logo": "https://cruvels.com/cruvels-logo.png",
+            "email": "founder@cruvels.com",
+            "telephone": "+91-6384820031"
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://cruvels.com/#website",
+            "url": "https://cruvels.com/",
+            "name": "Cruvels",
+            "publisher": {
+              "@id": "https://cruvels.com/#organization"
+            },
+            "potentialAction": {
+              "@type": "SearchAction",
+              "target": "https://cruvels.com/?q={search_term_string}",
+              "query-input": "required name=search_term_string"
+            }
+          },
+          {
+            "@type": "SoftwareApplication",
+            "@id": "https://cruvels.com/cru#softwareapplication",
+            "name": "Cru",
+            "url": "https://cruvels.com/cru",
+            "applicationCategory": "SocialNetworkingApplication",
+            "operatingSystem": "Web",
+            "publisher": {
+              "@id": "https://cruvels.com/#organization"
+            },
+            "description": "Cru is a structured public platform for publishing, debates, independent journalism, and policy-governed participation."
+          }
+        ]
+      }
+    </script>
 
   </head>
   <body>
@@ -39,7 +87,7 @@
 
     <header class="site-header">
       <div class="container nav-wrap">
-        <a class="brand" href="index.html" aria-label="Cruvels home">
+        <a class="brand" href="/" aria-label="Cruvels home">
           <img src="cruvels-logo.png" alt="Cruvels logo" class="brand-logo-full" />
         </a>
 
@@ -49,10 +97,10 @@
           <a href="#model">Model</a>
           <a href="#services">Services</a>
           <a href="#products">Products</a>
-          <a href="careers.html">Careers</a>
+          <a href="/careers">Careers</a>
           <a href="#philosophy">Philosophy</a>
           <a href="#contact">Contact</a>
-          <a class="pill-link" href="cru-public.html">Cru Product</a>
+          <a class="pill-link" href="/cru">Cru Product</a>
         </nav>
       </div>
     </header>
@@ -70,7 +118,12 @@
             <div class="hero-cta">
               <a class="btn btn-primary" href="#services">Explore Services</a>
               <a class="btn btn-secondary" href="#products">Explore Products</a>
-              <a class="btn btn-tertiary" href="cru-public.html">Open Cru</a>
+              <a class="btn btn-tertiary" href="/cru">Open Cru</a>
+            </div>
+            <div class="hero-metrics" aria-label="Cruvels trust highlights">
+              <span>Architecture-first delivery</span>
+              <span>Governance-aware engineering</span>
+              <span>Service + Product operating model</span>
             </div>
           </div>
 
@@ -82,6 +135,14 @@
             <div class="map-node s4">AI + Automation</div>
             <div class="map-node s5">Cru Platform</div>
           </div>
+        </div>
+      </section>
+      <section class="trust-strip reveal" aria-label="Institutional trust markers">
+        <div class="container trust-strip-wrap">
+          <p>Infrastructure-grade deployment practices</p>
+          <p>Compliance-aware system design</p>
+          <p>Audit-ready operational standards</p>
+          <p>Policy-aligned product governance</p>
         </div>
       </section>
 
@@ -171,7 +232,7 @@
                 Structured public platform for publishing, debates, and reward-enabled participation,
                 built and maintained by Cruvels.
               </p>
-              <a class="inline-link" href="cru-public.html">Visit Cru Website</a>
+              <a class="inline-link" href="/cru">Visit Cru Website</a>
             </article>
 
             <div class="product-stream">
@@ -257,19 +318,20 @@
               <h2>Clients, Collaborators, and Strategic Partners</h2>
             </div>
             <ul class="contact-list">
-              <li><strong>Client Projects:</strong> projects@cruvel.com</li>
-              <li><strong>Partnerships:</strong> partnerships@cruvel.com</li>
-              <li><strong>Media:</strong> media@cruvel.com</li>
-              <li><strong>Investor Relations:</strong> investors@cruvel.com</li>
+              <li><strong>Client Projects:</strong> projects@cruvels.com</li>
+              <li><strong>Partnerships:</strong> partnerships@cruvels.com</li>
+              <li><strong>Media:</strong> media@cruvels.com</li>
+              <li><strong>Investor Relations:</strong> investors@cruvels.com</li>
               <li><strong>Mobile:</strong> +91 6384820031</li>
             </ul>
           </div>
           <form class="contact-form" novalidate>
-            <label>Full Name<input type="text" name="full_name" required /></label>
-            <label>Work Email<input type="email" name="work_email" required /></label>
-            <label>Company / Organization<input type="text" name="company" required /></label>
-            <label>Project Brief<textarea rows="4" name="project_brief" required></textarea></label>
+            <label>Full Name<input type="text" name="full_name" autocomplete="name" placeholder="Your full name" required /></label>
+            <label>Work Email<input type="email" name="work_email" autocomplete="email" placeholder="name@company.com" required /></label>
+            <label>Company / Organization<input type="text" name="company" autocomplete="organization" placeholder="Company name" required /></label>
+            <label>Project Brief<textarea rows="4" name="project_brief" placeholder="Briefly describe project scope, timeline, and goals." required></textarea></label>
             <button class="btn btn-primary" type="submit">Submit Inquiry</button>
+            <p class="form-note">This form is protected by rate limiting and policy-based spam controls.</p>
             <p class="form-status" role="status" aria-live="polite"></p>
           </form>
         </div>
@@ -285,7 +347,7 @@
             We are hiring engineers, product operators, and infrastructure thinkers who value long-term systems design.
             Explore open roles and submit your profile.
           </p>
-          <a class="btn btn-primary" href="careers.html">View Careers</a>
+          <a class="btn btn-primary" href="/careers">View Careers</a>
         </div>
       </section>
     </main>
@@ -297,12 +359,12 @@
           India | Global Operations
         </p>
         <nav>
-          <a href="index.html">Cruvels</a>
-          <a href="careers.html">Careers</a>
-          <a href="cru-public.html">Cru</a>
-          <a href="legal.html">Legal</a>
-          <a href="privacy.html">Privacy</a>
-          <a href="compliance.html">Compliance</a>
+          <a href="/">Cruvels</a>
+          <a href="/careers">Careers</a>
+          <a href="/cru">Cru</a>
+          <a href="/legal">Legal</a>
+          <a href="/privacy">Privacy</a>
+          <a href="/compliance">Compliance</a>
         </nav>
       </div>
     </footer>

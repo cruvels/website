@@ -1,0 +1,1332 @@
+CRU PLATFORM MASTER POLICY DOCUMENT
+Comprehensive Legal Framework for Civic Discourse Platform
+Operated by: Cruvels Private Limited Registered Office: Building bearing No.19/35, V456, First Floor, Mount Road, Little Mount, Chennai-600015, Tamil Nadu, India Effective Date: [Insert Launch Date] Last Updated: [Insert Date]
+
+PLATFORM DESCRIPTION
+What is CRU?
+CRU (Civic Reputation & Understanding Network) is a structured civic discourse platform that enables users to engage in informed discussions across a broad spectrum of civic topics, including:
+	•	Civic issues and local governance
+	•	Public policy analysis and debates
+	•	Academic and educational discussions
+	•	Social topics and community issues
+	•	Regional and hyperlocal matters
+	•	Political discussions (as one category among many)
+	•	Knowledge sharing and evidence-based dialogue
+Platform Neutrality Statement
+CRU operates as a neutral technology intermediary platform. CRU does not endorse, promote, or oppose any political parties, candidates, public policies, or ideological positions. The platform facilitates user expression in accordance with applicable Indian law and platform policies.
+CRU is designed to support structured, credibility-weighted civic communication—not to serve as a political mobilization platform, election influence infrastructure, or political campaigning tool.
+
+TABLE OF CONTENTS
+PART A: PLATFORM POLICIES (CRU Website Footer)
+	•	Privacy Policy
+	•	Terms of Service
+	•	Community Guidelines
+	•	Content Policy
+	•	AI Ethics & Moderation Policy
+	•	Copyright & Takedown Policy
+	•	Minor Protection & Child Safety Policy
+	•	Political Advertising & Sponsored Content Policy
+	•	Grievance Redressal Mechanism
+	•	Refund & Payment Policy
+	•	Data Retention Policy
+	•	Transparency & Accountability Policy
+PART B: COMPANY CONTACT INFORMATION
+	•	Grievance Officer Details
+	•	Legal Contact Information
+
+PART A: PLATFORM POLICIES
+
+POLICY 1: PRIVACY POLICY
+Defensive Version – Compliance with Indian Law
+1.1 Introduction
+1.1.1 CRU is a digital platform owned and operated by Cruvels Private Limited, a company incorporated under the laws of India, having its registered office at: Building bearing No.19/35, V456, First Floor, Mount Road, Little Mount, Chennai-600015, Tamil Nadu, India.
+1.1.2 This Privacy Policy governs the collection, processing, storage, transfer, and protection of personal data in accordance with:
+	•	(a) Information Technology Act, 2000
+	•	(b) Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021
+	•	(c) Digital Personal Data Protection Act, 2023
+1.1.3 By creating an account or using CRU, you provide free, informed, specific, and unambiguous consent to the processing of your personal data in accordance with this Policy.
+1.2 Definitions
+For purposes of this Policy:
+1.2.1 "Platform" means CRU (Civic Reputation & Understanding Network).
+1.2.2 "Company" means Cruvels Private Limited.
+1.2.3 "User" means any individual accessing or using CRU.
+1.2.4 "Personal Data" means any data about an identifiable individual.
+1.2.5 "Processing" includes collection, storage, use, disclosure, transfer, or deletion of data.
+1.2.6 "Sensitive Data" includes financial, authentication, and government-identified information where applicable.
+1.2.7 "Content" means any text, images, videos, audio, or other materials posted, uploaded, or shared by Users on the Platform.
+1.2.8 "Moderation" means the review, evaluation, labeling, restriction, or removal of Content in accordance with Platform policies and applicable law.
+1.2.9 "Civic Credibility Score" means an automated platform ranking signal based on User engagement quality, rule compliance, and interaction patterns, used to allocate platform features such as content visibility and debate participation priority.
+1.3 Eligibility
+1.3.1 CRU is strictly available to individuals 18 years and above.
+1.3.2 By registering, you represent and warrant that you are at least 18 years of age.
+1.3.3 Accounts found to belong to individuals under 18 may be suspended or deleted without notice.
+1.4 Data Collection
+1.4.1 Account Data
+	•	(a) Mobile number (mandatory)
+	•	(b) OTP authentication logs
+	•	(c) Linked email address
+	•	(d) Username / display name
+	•	(e) Profile details
+1.4.2 User-Generated Content
+	•	(a) Posts, debates, comments
+	•	(b) Civic and public policy discussions (including political discussions as one category)
+	•	(c) Uploaded media
+1.4.3 Technical & Device Data
+	•	(a) IP address
+	•	(b) Device type
+	•	(c) Browser and OS
+	•	(d) Access logs
+	•	(e) Cookies and session identifiers
+1.4.4 Transaction Data
+	•	(a) Subscription details
+	•	(b) Payment transaction metadata (Note: Full card/banking data is not stored by CRU)
+1.5 Data Minimization Principle
+1.5.1 CRU collects only data that is:
+	•	(a) Necessary for account functionality
+	•	(b) Required for legal compliance
+	•	(c) Essential for platform security
+	•	(d) Required for moderation and fraud prevention
+1.5.2 We do not collect excessive or unrelated personal data.
+1.6 Purpose of Processing
+1.6.1 Your data is processed for:
+	•	(a) User authentication
+	•	(b) Platform functionality, including Civic Credibility Score calculation
+	•	(c) AI-assisted moderation and content safety
+	•	(d) Civic discourse support tools (contextual information, evidence-based resources)
+	•	(e) Political advertisement transparency (where applicable)
+	•	(f) Fraud detection and platform integrity
+	•	(g) Legal compliance
+	•	(h) Security monitoring
+	•	(i) Service improvement
+1.6.2 We do not sell personal data.
+1.6.3 Personal data is not used for political micro-targeting or to manipulate electoral outcomes.
+1.7 Legal Basis for Processing
+1.7.1 Data is processed under:
+	•	(a) User consent
+	•	(b) Contractual necessity (account access)
+	•	(c) Legal obligations
+	•	(d) Legitimate business interests
+1.8 AI & Automated Decision-Making
+1.8.1 CRU uses AI-based tools to:
+	•	(a) Detect harmful or unlawful content
+	•	(b) Flag policy violations
+	•	(c) Identify political advertisements
+	•	(d) Prevent platform abuse
+1.8.2 Automated systems may affect content visibility, ranking, or removal.
+1.8.3 Users may request human review by contacting: grievance@cruvels.com
+1.9 Data Storage & Localization
+1.9.1 All primary user data is stored on AWS data centers located in India.
+1.9.2 Access to data is restricted via:
+	•	(a) Role-based controls
+	•	(b) Encryption in transit
+	•	(c) Secure infrastructure standards
+1.10 Cross-Border Data Transfers
+1.10.1 If cross-border processing occurs:
+	•	(a) It will comply with applicable Indian law
+	•	(b) Appropriate contractual safeguards will be implemented
+	•	(c) Transfers will be limited to permitted jurisdictions
+1.11 Data Retention
+1.11.1 User Content may be retained for an indefinite period subject to operational requirements and legal obligations, unless:
+	•	(a) Deleted by User
+	•	(b) Account termination occurs
+	•	(c) Legal removal is required
+1.11.2 Certain records (transaction logs, moderation records, Civic Credibility Score histories, political advertisement records) may be retained for regulatory compliance, fraud prevention, and legal defense purposes.
+1.11.3 For detailed retention periods by data category, refer to the Data Retention Policy.
+1.12 Account Suspension & Termination
+1.12.1 If an account is suspended or terminated:
+	•	(a) Public content may remain visible where legally required
+	•	(b) Certain records may be retained for compliance
+	•	(c) Access credentials will be disabled
+1.13 User Rights
+1.13.1 Subject to applicable law, users may:
+	•	(a) Access personal data
+	•	(b) Request correction
+	•	(c) Withdraw consent
+	•	(d) Request deletion
+	•	(e) Request grievance review
+	•	(f) Seek explanation of automated decisions
+1.13.2 Requests may be submitted to: legal@cruvels.com
+1.14 Cookies & Tracking Technologies
+1.14.1 CRU uses cookies and session technologies to:
+	•	(a) Maintain login sessions
+	•	(b) Improve security
+	•	(c) Analyze usage trends
+	•	(d) Prevent abuse
+1.14.2 Users may control cookies via browser settings.
+1.15 Data Breach Notification
+1.15.1 In the event of a data breach:
+	•	(a) The Company will assess risk promptly
+	•	(b) Notify affected users where legally required
+	•	(c) Notify regulatory authorities where required under law
+	•	(d) Take corrective measures
+1.16 Civic Content & Sponsored Communication
+1.16.1 CRU supports a broad range of civic discourse, including political discussions as one category among many topics.
+1.16.2 Political advertisements (when applicable):
+	•	(a) Will be clearly labeled
+	•	(b) Must disclose sponsor identity
+	•	(c) Are subject to moderation
+	•	(d) Records are maintained internally for regulatory purposes
+1.16.3 For full details, refer to the Political Advertising & Sponsored Content Policy.
+1.17 Law Enforcement Requests
+1.17.1 The Company may disclose data:
+	•	(a) In response to lawful court orders
+	•	(b) Government directives
+	•	(c) National security requirements
+1.17.2 Such disclosures will comply strictly with applicable law.
+1.18 Security Measures
+1.18.1 We implement:
+	•	(a) Encryption
+	•	(b) Secure hosting infrastructure
+	•	(c) Access logging
+	•	(d) Incident response protocols
+	•	(e) Internal data access restrictions
+1.18.2 However, no digital system is completely secure.
+1.19 Limitation of Privacy Liability
+1.19.1 While we implement reasonable safeguards, the Company shall not be liable for:
+	•	(a) Unauthorized access caused by external cyberattacks
+	•	(b) User negligence
+	•	(c) Force majeure events
+1.19.2 Liability limitations are further governed by the Terms of Service.
+1.20 Ongoing Consent
+1.20.1 By creating an account and using the Platform, you provide consent to data processing as described in this Policy.
+1.20.2 Continued use of the Platform constitutes ongoing consent for processing necessary for service delivery and legal compliance.
+1.21 Changes to This Policy
+1.21.1 We may update this Privacy Policy periodically.
+1.21.2 Material changes will be notified through:
+	•	(a) Website notice
+	•	(b) Registered email communication
+1.21.3 Continued use after notification constitutes acceptance of the updated Policy.
+
+POLICY 2: TERMS OF SERVICE
+Full Legal Shield Version
+2.1 Introduction
+2.1.1 CRU ("Platform") is owned and operated by Cruvels Private Limited, a company incorporated under the laws of India, having its registered office at: Building bearing No.19/35, V456, First Floor, Mount Road, Little Mount, Chennai-600015, Tamil Nadu, India.
+2.1.2 These Terms of Service ("Terms") govern your access to and use of CRU.
+2.1.3 By accessing or using the Platform, you agree to be legally bound by these Terms. If you do not agree, you must discontinue use immediately.
+2.2 Eligibility
+2.2.1 You must be 18 years or older.
+2.2.2 By creating an account, you represent and warrant that you meet this requirement.
+2.2.3 The Company reserves the right to suspend accounts that violate eligibility criteria.
+2.3 Nature of Platform – Intermediary Status
+2.3.1 CRU is an intermediary platform under Section 79 of the Information Technology Act, 2000.
+2.3.2 The Platform:
+	•	(a) Does not initiate transmission of User Content
+	•	(b) Does not select recipients of User Content
+	•	(c) Does not modify User-generated Content except for lawful moderation compliance
+2.3.3 The Company acts as a neutral intermediary and is entitled to safe harbor protections subject to applicable law.
+2.3.4 CRU shall not be liable for third-party information, data, or communication links made available on the Platform, provided that:
+	•	(a) The Company observes due diligence
+	•	(b) The Company removes unlawful Content upon obtaining actual knowledge or upon being notified by the appropriate government or its agency
+2.3.5 Platform Curation and Ranking: CRU may rank, prioritize, label, and adjust visibility of Content using rule-based algorithms, including the Civic Credibility Score system, to enforce Community Guidelines, promote quality discourse, and maintain platform integrity. These operational measures are content-neutral, do not favor any political ideology, and do not convert CRU into a publisher of User Content.
+2.3.6 Content moderation actions, including removal, visibility reduction, and labeling, are undertaken in good faith for safety, legal compliance, and policy enforcement, and do not constitute editorial control that would affect intermediary protection.
+2.3.7 Users acknowledge that CRU is a neutral technology platform and does not endorse political parties, candidates, public policies, or ideological positions expressed by Users.
+2.4 User Accounts
+2.4.1 Users must:
+	•	(a) Register using valid mobile number and OTP verification
+	•	(b) Provide accurate information
+	•	(c) Maintain account confidentiality
+2.4.2 You are responsible for all activity under your account.
+2.5 User-Generated Content
+2.5.1 Users may post debates, opinions, comments, and political content.
+2.5.2 By posting content, you:
+	•	(a) Retain ownership of your content
+	•	(b) Grant CRU a non-exclusive, worldwide, royalty-free license to host, display, and distribute such content
+	•	(c) Confirm the content does not violate any law
+2.6 Prohibited Content
+2.6.1 Users shall not post Content that:
+	•	(a) Violates Indian law
+	•	(b) Is defamatory
+	•	(c) Incites violence
+	•	(d) Promotes terrorism
+	•	(e) Contains hate speech
+	•	(f) Violates intellectual property rights
+	•	(g) Contains unlawful political funding or advertising
+	•	(h) Impersonates individuals or institutions
+	•	(i) Spreads knowingly false information presented as fact
+	•	(j) Attempts to artificially manipulate reputation metrics, engagement signals, or Civic Credibility Score through bots, coordinated inauthentic behavior, or synthetic interactions
+2.6.2 Users are solely responsible for factual claims made about identifiable individuals or organizations. CRU does not verify the accuracy of User-generated statements and acts only as an intermediary platform.
+2.6.3 The Company may remove, restrict, or limit visibility of Content in good faith for safety, legal compliance, platform integrity, and enforcement of platform policies.
+2.7 Civic Discourse & Political Content
+2.7.1 CRU supports broad civic discourse including discussions on governance, public policy, community issues, and political topics.
+2.7.2 Political discussions are permitted as one category of civic content.
+2.7.3 Sponsored political advertisements (where applicable) must:
+	•	(a) Clearly disclose sponsor identity
+	•	(b) Comply with Indian law, including the Representation of the People Act, 1951
+	•	(c) Not mislead Users
+2.7.4 CRU does not endorse political parties, candidates, policies, or ideological views expressed by Users.
+2.8 AI Moderation & Content Management
+2.8.1 CRU uses automated tools, AI-assisted systems, and human review to:
+	•	(a) Detect policy violations
+	•	(b) Flag harmful or unlawful Content
+	•	(c) Support contextual information and evidence-based discussion tools
+	•	(d) Moderate sponsored content (including political advertisements where applicable)
+2.8.2 The Company may take proportional enforcement actions, including:
+	•	(a) Warning notices
+	•	(b) Content labeling
+	•	(c) Visibility reduction
+	•	(d) Temporary restriction or suspension
+	•	(e) Content removal
+	•	(f) Permanent account termination
+2.8.3 Enforcement severity depends on the nature and severity of the violation.
+2.8.4 Moderation decisions are final unless escalated through the grievance redressal process.
+2.9 Suspension & Termination
+2.9.1 The Company may suspend or terminate access:
+	•	(a) For policy violations
+	•	(b) For legal compliance
+	•	(c) For security concerns
+	•	(d) For fraudulent activity
+	•	(e) At its discretion where necessary
+2.9.2 Termination does not waive liability for prior violations.
+2.10 Indemnification
+2.10.1 You agree to indemnify, defend, and hold harmless Cruvels Private Limited, its directors, founders, officers, employees, affiliates, and agents from and against any and all:
+	•	(a) Claims
+	•	(b) Demands
+	•	(c) Lawsuits
+	•	(d) Damages
+	•	(e) Penalties
+	•	(f) Losses
+	•	(g) Legal fees
+	•	(h) Government fines
+2.10.2 Arising out of or relating to:
+	•	(a) Your user-generated content
+	•	(b) Your violation of applicable law
+	•	(c) Political content posted by you
+	•	(d) Your infringement of intellectual property
+	•	(e) Your breach of these Terms
+	•	(f) Any third-party claim arising from your actions
+2.10.3 This obligation survives account termination.
+2.11 Limitation of Liability
+2.11.1 To the fullest extent permitted under applicable law, CRU operates as a technology intermediary platform and does not create, endorse, verify, or control User-generated Content.
+2.11.2 Cruvels Private Limited, its directors, founders, officers, employees, contractors, moderators, affiliates, agents, and licensors shall not be liable for:
+	•	(a) User-generated Content
+	•	(b) Political opinions, civic discussions, or policy positions expressed by Users
+	•	(c) Defamatory, misleading, or unlawful Content posted by Users
+	•	(d) Factual claims, statements, or allegations made by Users
+	•	(e) Civic Credibility Score calculations or ranking decisions
+	•	(f) Non-selection, queue placement, or reduced speaking time in Debate Mode
+	•	(g) Indirect, incidental, consequential, special, or punitive damages
+	•	(h) Loss of profits, goodwill, data, reputation, or business opportunities
+	•	(i) Platform downtime, service interruptions, or feature unavailability
+	•	(j) Unauthorized access due to cyberattacks, third-party breaches, or force majeure events
+	•	(k) Payment gateway failures, banking network errors, or third-party processor delays
+	•	(l) Decisions by hosts, moderators, or automated systems in Debate Mode or other live features
+2.11.3 The total aggregate liability of the Company under any circumstances (whether arising from contract, tort, statute, or any other legal theory) shall not exceed the lesser of:
+	•	(a) The amount paid by the User (if any) to CRU in the preceding six (6) months; or
+	•	(b) INR 5,000 (Five Thousand Indian Rupees)
+2.11.4 Nothing in these Terms excludes or limits liability where such exclusion or limitation is not permitted under Indian law, including liability for death or personal injury caused by negligence, fraud, or fraudulent misrepresentation.
+2.12 Disclaimer of Warranties
+2.12.1 The Platform is provided "AS IS" and "AS AVAILABLE."
+2.12.2 The Company does not guarantee:
+	•	(a) Continuous availability
+	•	(b) Error-free operation
+	•	(c) Accuracy of user-generated content
+	•	(d) Political neutrality of user submissions
+2.13 Compliance with Law Enforcement
+2.13.1 The Company may:
+	•	(a) Remove content upon lawful order
+	•	(b) Disclose data under court order
+	•	(c) Restrict access when required under Indian law
+2.14 Intellectual Property
+2.14.1 All platform design, branding, trademarks, and software are owned by Cruvels Private Limited.
+2.14.2 Users may not copy, distribute, or reverse-engineer platform technology.
+2.15 Refund & Payment Terms
+2.15.1 If subscriptions or paid services are offered:
+	•	(a) Payments are processed via authorized third-party gateways
+	•	(b) Refunds are subject to the Refund Policy
+	•	(c) The Company reserves the right to change pricing
+2.16 Civic Credibility Score and Ranking System
+2.16.1 CRU employs a Civic Credibility Score system to allocate platform features, including content visibility, debate participation priority, and monetization eligibility.
+2.16.2 The Civic Credibility Score is an automated platform ranking signal based on:
+	•	(a) Engagement quality
+	•	(b) Rule compliance and Community Guidelines adherence
+	•	(c) Interaction patterns and User behavior
+2.16.3 The Civic Credibility Score:
+	•	(a) Does not evaluate political ideology, viewpoints, beliefs, or political affiliation
+	•	(b) Does not constitute a factual statement about a User's character, credibility, or truthfulness
+	•	(c) Is a content-neutral, rule-based operational measure
+2.16.4 CRU may modify scoring systems, ranking mechanisms, and algorithmic parameters at any time for platform integrity, safety, and quality improvement.
+2.16.5 Users acknowledge that the Civic Credibility Score is an opinion-like assessment and not a verifiable factual claim.
+2.16.6 Users may request review of Civic Credibility Score calculations in cases of proven data error or mistaken identity by contacting the grievance mechanism.
+2.17 Debate Mode and Live Features
+2.17.1 CRU may offer Debate Mode and other live interactive features where Users may participate in structured discussions.
+2.17.2 Speaking access, mic allocation, and queue priority in Debate Mode are conditional platform features, not rights, and may depend on:
+	•	(a) Civic Credibility Score
+	•	(b) Engagement quality
+	•	(c) Rule compliance
+	•	(d) Host or moderator discretion
+	•	(e) Platform safety parameters
+2.17.3 Hosts, moderators, and CRU may limit, reorder, mute, or remove speakers to preserve structure, safety, legal compliance, and civil discourse standards.
+2.17.4 Non-selection, lower queue placement, or reduced speaking time does not imply any judgment about a User's views, rights, or standing.
+2.17.5 Users acknowledge that Debate Mode features are discretionary and subject to operational and safety requirements.
+2.18 Force Majeure
+2.18.1 CRU shall not be liable for delays, failures, or inability to perform obligations caused by events beyond reasonable control, including but not limited to:
+	•	(a) Natural disasters (earthquakes, floods, fires, pandemics)
+	•	(b) Cyber incidents, cyberattacks, or distributed denial-of-service attacks
+	•	(c) Government directives, emergency orders, or lawful blocking requests
+	•	(d) Infrastructure failures, internet outages, or telecommunications disruptions
+	•	(e) War, terrorism, civil unrest, or acts of public enemies
+	•	(f) Labor disputes, strikes, or workforce disruptions
+	•	(g) Third-party service provider failures
+2.18.2 In the event of force majeure, the Company will make reasonable efforts to resume normal operations as soon as practicable.
+2.19 Severability
+2.19.1 If any provision of these Terms is held invalid, illegal, or unenforceable by a court of competent jurisdiction, the remaining provisions shall remain in full force and effect.
+2.19.2 The invalid provision shall be modified to the minimum extent necessary to make it valid and enforceable, or if such modification is not possible, it shall be severed from these Terms.
+2.20 Entire Agreement
+2.20.1 These Terms of Service, together with the Privacy Policy, Community Guidelines, Content Policy, and other referenced Platform policies, constitute the entire agreement between Users and Cruvels Private Limited regarding use of the CRU Platform.
+2.20.2 These Terms supersede all prior or contemporaneous understandings, agreements, representations, or communications (whether written or oral) regarding the subject matter herein.
+2.21 Good Faith Dispute Resolution
+2.21.1 In the event of any dispute arising out of or relating to these Terms or use of the Platform, Users agree to first attempt resolution through the Grievance Redressal Mechanism outlined in the Platform policies.
+2.21.2 Parties shall make good faith efforts to resolve disputes amicably before initiating formal litigation.
+2.21.3 This clause does not limit the Company's right to seek urgent injunctive or equitable relief where necessary to protect platform integrity, safety, or legal compliance.
+2.22 Operational Protection
+2.22.1 CRU reserves the right to:
+	•	(a) Respond to lawful government orders, court directives, and regulatory requests
+	•	(b) Remove or restrict Content during emergencies or to prevent imminent harm
+	•	(c) Comply with lawful investigations by competent authorities
+	•	(d) Preserve records, data, and evidence for legal defense, regulatory compliance, or ongoing investigations
+	•	(e) Temporarily or permanently disable features, accounts, or Content where necessary for platform integrity or public safety
+2.22.2 Such actions shall be undertaken in accordance with applicable Indian law and do not constitute a waiver of intermediary protection.
+2.23 Algorithm Confidentiality
+2.23.1 CRU is not required to disclose proprietary algorithms, scoring formulas, ranking systems, Civic Credibility Score calculation methods, or platform integrity mechanisms.
+2.23.2 Such systems constitute confidential business information and trade secrets.
+2.23.3 General information about moderation principles, enforcement categories, and ranking factors may be provided for transparency, but detailed technical specifications shall remain confidential for security and anti-manipulation purposes.
+2.24 Governing Law and Jurisdiction
+2.24.1 These Terms shall be governed by and construed in accordance with the laws of India.
+2.24.2 Any disputes arising out of or relating to these Terms or use of the Platform shall be subject to the exclusive jurisdiction of the courts in Chennai, Tamil Nadu, India.
+2.25 Modifications to Terms
+2.25.1 The Company may update these Terms periodically to reflect legal developments, regulatory changes, or platform evolution.
+2.25.2 Material changes will be notified through website notice or registered email communication.
+2.25.3 Continued use of the Platform after notification constitutes acceptance of the updated Terms.
+
+POLICY 3: COMMUNITY GUIDELINES
+Enforceable Version
+3.1 Purpose
+3.1.1 CRU is a structured civic discourse platform that enables Users to engage in informed discussions across a broad spectrum of civic topics, including governance, public policy, community issues, social topics, and political discussions as one category among many.
+3.1.2 These Community Guidelines define acceptable behavior and content standards to ensure:
+	•	(a) Lawful expression
+	•	(b) Civil and respectful discourse
+	•	(c) User safety and platform integrity
+	•	(d) Regulatory compliance
+	•	(e) Quality, credibility-weighted civic communication
+3.1.3 Violation of these Guidelines may result in proportional enforcement actions, including warnings, content labeling, visibility reduction, temporary suspension, or permanent ban, depending on severity.
+3.2 Lawful Use Requirement
+3.2.1 Users must comply with all applicable Indian laws, including:
+	•	(a) Information Technology Act, 2000
+	•	(b) Indian Penal Code, 1860
+	•	(c) Representation of the People Act, 1951
+3.2.2 CRU does not permit unlawful content.
+3.3 Respectful Debate Policy
+3.3.1 CRU supports strong opinions.
+3.3.2 Allowed:
+	•	(a) Political criticism
+	•	(b) Ideological disagreement
+	•	(c) Government policy critique
+	•	(d) Evidence-based arguments
+3.3.3 Not Allowed:
+	•	(a) Personal harassment
+	•	(b) Threats
+	•	(c) Calls for violence
+	•	(d) Targeted abuse
+	•	(e) Hate speech
+	•	(f) Doxxing
+3.3.4 Debate the idea — not the individual.
+3.4 Prohibited Content
+3.4.1 Illegal Content
+	•	(a) Terrorist propaganda
+	•	(b) Criminal incitement
+	•	(c) Child exploitation material
+	•	(d) Fraud schemes
+3.4.2 Hate & Violence
+	•	(a) Content targeting religion, caste, ethnicity, gender, or nationality
+	•	(b) Incitement to violence
+	•	(c) Genocide advocacy
+3.4.3 Misinformation & Misleading Content
+	•	(a) Deliberately false claims presented as facts
+	•	(b) Manipulated media (including deepfakes) intended to mislead
+	•	(c) Fabricated evidence or falsified documents
+3.4.4 Impersonation
+	•	(a) Pretending to be public officials, institutions, or other individuals
+	•	(b) Fake endorsements or falsely attributed statements
+3.4.5 Spam, Manipulation & Reputation Gaming
+	•	(a) Bot amplification or automated spam
+	•	(b) Coordinated inauthentic behavior
+	•	(c) Attempts to artificially manipulate Civic Credibility Scores, engagement signals, or reputation metrics through bots, coordinated activity, or synthetic interactions
+	•	(d) Mass propaganda flooding or coordinated manipulation campaigns
+3.4.6 Defamation
+	•	(a) Users are solely responsible for factual claims made about identifiable individuals or organizations
+	•	(b) CRU does not verify the accuracy of User-generated statements and acts only as an intermediary platform
+3.5 Civic Discourse and Political Content Rules
+3.5.1 CRU supports civic discourse across many topics, including governance, public policy, community issues, and political discussions.
+3.5.2 Political discussion is permitted as one category of civic content.
+3.5.3 For sponsored political content:
+	•	(a) Political advertisements must disclose sponsor identity
+	•	(b) Paid political content must be clearly labeled
+	•	(c) Foreign political funding promotion is prohibited
+	•	(d) Voter suppression tactics are prohibited
+	•	(e) Election interference is prohibited
+3.5.4 The Platform does not endorse any political party, candidate, policy, or ideological position.
+3.6 AI and Moderation Transparency
+3.6.1 CRU uses:
+	•	(a) Automated detection tools
+	•	(b) AI-assisted moderation systems
+	•	(c) Contextual information and evidence-based discussion support tools
+	•	(d) Human review teams
+3.6.2 Content may be subject to proportional actions:
+	•	(a) Flagged for review
+	•	(b) Labeled with contextual information
+	•	(c) Visibility reduced or downranked
+	•	(d) Temporarily restricted or hidden
+	•	(e) Removed for policy violations
+3.6.3 Moderation is conducted in good faith for safety, legal compliance, platform integrity, and enforcement of platform policies.
+3.6.4 Users may appeal moderation decisions via: grievance@cruvels.com
+3.7 Enforcement Actions
+3.7.1 Depending on severity, enforcement may include:
+	•	(a) Warning notice
+	•	(b) Content removal
+	•	(c) Temporary suspension
+	•	(d) Permanent account termination
+	•	(e) Reporting to authorities where legally required
+3.7.2 Repeat violations result in stricter penalties.
+3.8 Transparency & Accountability
+3.8.1 CRU may publish periodic transparency reports including:
+	•	(a) Number of takedown requests
+	•	(b) Government content removal orders
+	•	(c) Political ad disclosures
+	•	(d) Account suspensions
+3.9 Protection of Public Figures & Institutions
+3.9.1 Criticism of public figures is allowed.
+3.9.2 However, the following are prohibited:
+	•	(a) False allegations presented as fact
+	•	(b) Calls for violence
+	•	(c) Coordinated defamation campaigns
+3.10 Intellectual Property Respect
+3.10.1 Users must not upload:
+	•	(a) Copyrighted content without permission
+	•	(b) Pirated media
+	•	(c) Unauthorized political campaign materials
+3.10.2 Violations may lead to takedown.
+3.11 Reporting Violations
+3.11.1 Users may report violations through:
+	•	(a) In-app reporting tools
+	•	(b) Email: grievance@cruvels.com
+3.11.2 Reports will be:
+	•	(a) Acknowledged within 24 hours
+	•	(b) Reviewed in accordance with law
+	•	(c) Acted upon within reasonable time
+3.12 Platform Authority
+3.12.1 CRU reserves the right to:
+	•	(a) Interpret these Guidelines
+	•	(b) Remove any content
+	•	(c) Suspend accounts
+	•	(d) Restrict features
+	•	(e) Cooperate with legal authorities
+3.12.2 Platform decisions are made in good faith for safety and compliance.
+3.13 Updates to Guidelines
+3.13.1 These Guidelines may be updated periodically.
+3.13.2 Continued use of the Platform constitutes acceptance of updated rules.
+
+POLICY 4: CONTENT POLICY
+Regulatory Version
+4.1 Purpose
+4.1.1 This Content Policy outlines CRU's framework for:
+	•	(a) Reviewing user-generated content
+	•	(b) Removing unlawful material
+	•	(c) Handling political and sensitive content
+	•	(d) Ensuring compliance with Indian law
+4.1.2 This Policy supports CRU's obligations under:
+	•	(a) Information Technology Act, 2000
+	•	(b) Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021
+	•	(c) Indian Penal Code, 1860
+4.2 Intermediary Status
+4.2.1 CRU operates as an intermediary under Section 79 of the IT Act.
+4.2.2 The Platform:
+	•	(a) Does not initiate content
+	•	(b) Does not pre-screen all user submissions
+	•	(c) Acts upon knowledge of unlawful content
+4.2.3 Content removal occurs:
+	•	(a) Upon user reports
+	•	(b) Upon internal detection
+	•	(c) Upon government or court order
+4.3 Categories of Restricted Content
+4.3.1 Unlawful Content
+Content violating Indian law, including:
+	•	(a) Sedition or unlawful incitement
+	•	(b) Criminal conspiracy
+	•	(c) Obscenity prohibited by law
+	•	(d) Child sexual abuse material
+	•	(e) Terrorism promotion
+Such Content is subject to immediate removal.
+4.3.2 Harmful Civic and Political Content
+Includes:
+	•	(a) Coordinated election interference
+	•	(b) Voter suppression messaging
+	•	(c) Foreign political funding promotion
+	•	(d) False information about election or voting procedures
+	•	(e) Impersonation of election officials or government authorities
+CRU reserves authority to remove, restrict, or limit visibility of such Content in good faith for safety, legal compliance, and platform integrity.
+4.3.3 Defamatory Content
+4.3.3.1 Content making false factual claims about identifiable individuals that may harm reputation.
+4.3.3.2 CRU may:
+	•	(a) Temporarily restrict
+	•	(b) Seek clarification
+	•	(c) Remove upon notice
+4.3.4 Hate Speech & Incitement
+4.3.4.1 Content that:
+	•	(a) Promotes violence against protected groups
+	•	(b) Advocates discrimination
+	•	(c) Incites communal unrest
+4.3.4.2 Will be removed promptly.
+4.3.5 Manipulated or Misleading Media
+4.3.5.1 Includes:
+	•	(a) Deepfakes intended to deceive
+	•	(b) Altered political speeches
+	•	(c) Fabricated evidence
+4.3.5.2 CRU may label, restrict, or remove such content.
+4.4 Moderation Mechanism
+4.4.1 CRU uses a layered moderation system:
+	•	(a) Automated AI detection
+	•	(b) Contextual information and evidence-based discussion support tools
+	•	(c) Human moderation review
+	•	(d) Escalation for complex or sensitive cases
+	•	(e) Legal compliance review (where required)
+4.4.2 Moderation is conducted in good faith for safety, legal compliance, platform integrity, and policy enforcement.
+4.4.3 Moderation is content-neutral and does not favor any political ideology, party, or candidate.
+4.4.4 CRU may take proportional enforcement actions, including warnings, labeling, visibility reduction, temporary suspension, or permanent termination, depending on severity.
+4.5 Notice & Takedown Procedure
+4.5.1 Content may be removed upon:
+	•	(a) User complaint
+	•	(b) Verified legal notice
+	•	(c) Government directive
+	•	(d) Court order
+4.5.2 Upon receiving valid notice:
+	•	(a) Acknowledgment within 24 hours
+	•	(b) Action within 36 hours where legally mandated
+	•	(c) Documentation retained for compliance
+4.6 Political Advertisement Oversight
+4.6.1 All paid political content must:
+	•	(a) Disclose sponsor identity
+	•	(b) Comply with Indian election laws
+	•	(c) Avoid misleading claims
+4.6.2 CRU may:
+	•	(a) Reject political ads
+	•	(b) Suspend repeat violators
+	•	(c) Maintain internal ad registry
+4.7 Repeat Offender Policy
+4.7.1 Users repeatedly violating content rules may face:
+	•	(a) Escalating warnings
+	•	(b) Temporary suspensions
+	•	(c) Permanent bans
+4.7.2 CRU maintains internal violation logs.
+4.8 Proportional Enforcement: Labeling vs Removal
+4.8.1 CRU may take proportional enforcement actions based on the nature and severity of the violation:
+	•	(a) Contextual information labels or evidence-based reference resources
+	•	(b) Warning notices to Users
+	•	(c) Reduced visibility or downranking
+	•	(d) Temporary restriction or hiding
+	•	(e) Full Content removal
+	•	(f) Account suspension or permanent termination
+4.8.2 Removal is not the only enforcement tool; labeling and context provision may be used to support informed civic discourse.
+4.9 Government Orders & Emergency Blocking
+4.9.1 CRU may comply with lawful orders under applicable Indian law requiring:
+	•	(a) Immediate content blocking
+	•	(b) Information disclosure
+	•	(c) Account restriction
+4.9.2 Such actions will be documented.
+4.10 Appeal Process
+4.10.1 Users may appeal moderation decisions by contacting: grievance@cruvels.com
+4.10.2 Appeals will be:
+	•	(a) Reviewed by a human reviewer
+	•	(b) Evaluated objectively
+	•	(c) Responded to within 15 days
+4.11 Transparency Commitment
+4.11.1 CRU may publish periodic summaries of:
+	•	(a) Content removal numbers
+	•	(b) Political ad disclosures
+	•	(c) Government takedown requests
+4.11.2 To promote accountability.
+4.12 Platform Discretion
+4.12.1 CRU reserves the right to remove content that:
+	•	(a) Poses risk to public safety
+	•	(b) Threatens platform integrity
+	•	(c) Undermines lawful operations
+4.12.2 Even if not explicitly listed.
+
+POLICY 5: AI ETHICS & MODERATION POLICY
+Transparency Version
+5.1 Purpose
+5.1.1 CRU uses artificial intelligence ("AI") and automated tools to support content moderation, abuse prevention, and platform integrity.
+5.1.2 This Policy explains:
+	•	(a) How AI is used
+	•	(b) Where human oversight exists
+	•	(c) What safeguards are implemented
+	•	(d) How users may challenge automated decisions
+5.1.3 This Policy aligns with:
+	•	(a) Information Technology Act, 2000
+	•	(b) Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021
+	•	(c) Digital Personal Data Protection Act, 2023
+5.2 Role of AI on CRU
+5.2.1 AI systems are used to assist in:
+	•	(a) Detecting policy violations
+	•	(b) Identifying hate speech, incitement, or harmful Content
+	•	(c) Providing contextual information and evidence-based discussion support
+	•	(d) Detecting spam, bots, or coordinated manipulation (including reputation gaming)
+	•	(e) Identifying political advertisements (where applicable)
+	•	(f) Calculating Civic Credibility Scores and ranking signals
+	•	(g) Prioritizing moderation review queues
+5.2.2 AI assists moderation and supports civic discourse quality — it does not replace human judgment in complex or sensitive cases.
+5.3 Automated Decision-Making
+5.3.1 Certain automated actions may include:
+	•	(a) Temporary content flagging
+	•	(b) Reduced content visibility
+	•	(c) Account risk scoring
+	•	(d) Queue prioritization for review
+5.3.2 Fully automated permanent bans are not implemented without human oversight.
+5.4 Human Oversight
+5.4.1 CRU maintains human review processes for:
+	•	(a) Appeals
+	•	(b) Complex political content
+	•	(c) Context-sensitive decisions
+	•	(d) Legal compliance matters
+5.4.2 Users may request review by contacting: grievance@cruvels.com
+5.5 Political Neutrality Commitment
+5.5.1 CRU does not use AI to promote or suppress specific political ideologies.
+5.5.2 AI systems are designed to:
+	•	(a) Enforce behavioral rules
+	•	(b) Detect harmful conduct
+	•	(c) Identify unlawful material
+5.5.3 Moderation decisions are based on rule violations, not political alignment.
+5.6 Bias Mitigation
+5.6.1 CRU implements the following safeguards:
+	•	(a) Regular review of moderation outcomes
+	•	(b) Manual override capability for AI decisions
+	•	(c) Escalation for high-impact or sensitive decisions
+	•	(d) Internal review of politically sensitive or controversial Content actions
+	•	(e) Civic Credibility Score audits to ensure content-neutral operation
+5.6.2 No system is entirely free from bias or error, but continuous evaluation, transparency, and improvement are maintained.
+5.7 Transparency in Enforcement
+5.7.1 Users may:
+	•	(a) Receive notice of content removal (where appropriate)
+	•	(b) Appeal moderation decisions
+	•	(c) Request clarification on enforcement
+5.7.2 CRU may publish aggregate transparency reports summarizing moderation activity.
+5.8 Limitations of AI Systems
+5.8.1 AI systems may:
+	•	(a) Misinterpret sarcasm
+	•	(b) Misclassify context
+	•	(c) Incorrectly flag lawful content
+5.8.2 CRU encourages users to appeal if errors occur.
+5.9 Data Usage in AI Systems
+5.9.1 AI moderation tools may process:
+	•	(a) Publicly posted content
+	•	(b) Account metadata
+	•	(c) Behavioral patterns
+5.9.2 AI systems do not access private device data or unrelated personal information.
+5.9.3 Data processing complies with CRU Privacy Policy.
+5.10 No Automated Political Manipulation
+5.10.1 CRU does not:
+	•	(a) Use AI to manipulate voter behavior or electoral outcomes
+	•	(b) Use AI to micro-target Users based on inferred political ideology or beliefs
+	•	(c) Sell political behavioral profiles or User data to political entities
+	•	(d) Use Civic Credibility Scores to favor or suppress political viewpoints
+5.10.2 Sponsored political content (where applicable) is labeled, disclosed, and regulated separately under the Political Advertising & Sponsored Content Policy.
+5.11 Regulatory Cooperation
+5.11.1 CRU may:
+	•	(a) Provide information to lawful authorities
+	•	(b) Adjust AI systems to comply with evolving regulations
+	•	(c) Update policies as required by law
+5.12 Continuous Improvement
+5.12.1 CRU commits to:
+	•	(a) Updating moderation systems responsibly
+	•	(b) Monitoring emerging risks
+	•	(c) Improving fairness and transparency
+5.13 Policy Updates
+5.13.1 This Policy may be updated periodically.
+5.13.2 Continued use of CRU constitutes acceptance of revisions.
+
+POLICY 6: COPYRIGHT & TAKEDOWN POLICY
+Legal Compliance Version
+6.1 Purpose
+6.1.1 CRU respects intellectual property rights and complies with applicable Indian copyright law, including:
+	•	(a) Copyright Act, 1957
+	•	(b) Information Technology Act, 2000
+	•	(c) Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021
+6.1.2 This Policy establishes a formal notice-and-takedown procedure.
+6.2 User Responsibility
+6.2.1 Users may only upload content that:
+	•	(a) They own
+	•	(b) They have permission to use
+	•	(c) Is licensed appropriately
+	•	(d) Falls under fair use / fair dealing (where applicable)
+6.2.2 Users are solely responsible for ensuring they do not infringe third-party rights.
+6.3 Reporting Copyright Infringement
+6.3.1 If you believe your copyrighted material has been used on CRU without authorization, you may submit a written notice including:
+	•	(a) Full name and contact details
+	•	(b) Description of copyrighted work
+	•	(c) Exact URL or location of infringing material
+	•	(d) Statement of ownership or authority
+	•	(e) Good faith belief that use is unauthorized
+	•	(f) Declaration that information provided is accurate
+6.3.2 Notices must be sent to: Email: grievance@cruvels.com Subject Line: Copyright Infringement Notice
+6.4 Takedown Procedure
+6.4.1 Upon receiving a valid notice:
+	•	(a) Acknowledgment within 24 hours
+	•	(b) Preliminary review conducted
+	•	(c) Content may be temporarily disabled
+	•	(d) Removal within 36 hours where legally required
+6.4.2 CRU reserves the right to request additional documentation.
+6.5 Counter-Notification Process
+6.5.1 If content is removed and the uploader believes it was removed in error, they may submit a counter-notice including:
+	•	(a) Identification of removed content
+	•	(b) Explanation of lawful use
+	•	(c) Declaration of good faith belief
+	•	(d) Consent to jurisdiction of courts in Chennai
+6.5.2 CRU may restore content if legally justified.
+6.6 Repeat Infringer Policy
+6.6.1 Users repeatedly violating copyright may face:
+	•	(a) Warning notices
+	•	(b) Temporary suspension
+	•	(c) Permanent account termination
+6.6.2 Violation history may be retained for compliance purposes.
+6.7 Political Campaign Materials
+6.7.1 Political advertisements and campaign materials must:
+	•	(a) Be properly licensed
+	•	(b) Not infringe copyrighted works
+	•	(c) Not use protected logos without authorization
+6.7.2 CRU may reject or remove political materials that infringe rights.
+6.8 Limitation of Liability
+6.8.1 CRU operates as an intermediary platform under Section 79 of the Information Technology Act, 2000.
+6.8.2 The Company is not liable for user-uploaded content provided it acts upon lawful notice.
+6.9 Misuse of Takedown Process
+6.9.1 Submitting false or malicious copyright claims may result in:
+	•	(a) Rejection of complaint
+	•	(b) Account suspension
+	•	(c) Legal escalation where appropriate
+6.10 Record Retention
+6.10.1 CRU may retain:
+	•	(a) Notices received
+	•	(b) Removal actions taken
+	•	(c) Counter-notices submitted
+6.10.2 For regulatory and compliance purposes.
+6.11 Cooperation with Authorities
+6.11.1 CRU may disclose information related to infringement disputes if required by:
+	•	(a) Court order
+	•	(b) Law enforcement directive
+	•	(c) Government mandate
+6.12 Policy Updates
+6.12.1 This Policy may be updated periodically.
+6.12.2 Continued use of the Platform constitutes acceptance of changes.
+
+POLICY 7: MINOR PROTECTION & CHILD SAFETY POLICY
+7.1 Purpose
+7.1.1 CRU is committed to ensuring a safe digital environment and preventing harm to minors.
+7.1.2 This Policy outlines:
+	•	(a) Age eligibility standards
+	•	(b) Safeguards against child exploitation
+	•	(c) Reporting mechanisms
+	•	(d) Platform responsibilities
+7.1.3 This Policy aligns with:
+	•	(a) Information Technology Act, 2000
+	•	(b) Protection of Children from Sexual Offences Act, 2012
+	•	(c) Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021
+7.2 Age Restriction
+7.2.1 CRU is strictly limited to individuals 18 years and above.
+7.2.2 By creating an account, users represent and warrant that:
+	•	(a) They are at least 18 years old
+	•	(b) They are legally competent to enter into binding agreements
+7.2.3 Accounts found to belong to individuals under 18 may be:
+	•	(a) Suspended
+	•	(b) Permanently deleted
+	•	(c) Reported where required by law
+7.3 Zero Tolerance Policy
+7.3.1 CRU has zero tolerance for:
+	•	(a) Child sexual abuse material (CSAM)
+	•	(b) Grooming behavior
+	•	(c) Sexual exploitation of minors
+	•	(d) Trafficking-related content
+	•	(e) Harmful or predatory communication
+7.3.2 Such content will be:
+	•	(a) Immediately removed
+	•	(b) Reported to appropriate authorities
+	•	(c) Logged for compliance purposes
+7.4 Detection & Monitoring
+7.4.1 CRU uses:
+	•	(a) AI-assisted moderation tools
+	•	(b) Human review
+	•	(c) User reporting systems
+7.4.2 To detect and prevent:
+	•	(a) Child exploitation content
+	•	(b) Grooming attempts
+	•	(c) Predatory behavior
+7.4.3 Moderation actions may be immediate and without prior notice.
+7.5 Reporting Child Safety Concerns
+7.5.1 Users may report suspected child safety violations via: Email: grievance@cruvels.com Subject: Urgent Child Safety Concern
+7.5.2 Reports involving potential child exploitation will be prioritized.
+7.6 Cooperation with Authorities
+7.6.1 Where legally required, CRU may:
+	•	(a) Preserve relevant data
+	•	(b) Provide information to law enforcement
+	•	(c) Comply with court directives
+7.6.2 Child exploitation matters may be escalated without user notification where required by law.
+7.7 Political Content & Minor Safety
+7.7.1 CRU does not:
+	•	(a) Target political advertisements to minors
+	•	(b) Promote political messaging to individuals under 18
+	•	(c) Allow accounts for minors
+7.7.2 Since the platform is restricted to adults, additional parental consent mechanisms are not implemented.
+7.8 Preventive Safeguards
+7.8.1 CRU maintains:
+	•	(a) Account age eligibility checks
+	•	(b) Monitoring of suspicious behavior
+	•	(c) Escalation procedures for high-risk cases
+7.8.2 Repeated violations result in permanent bans.
+7.9 Limitation of Platform Liability
+7.9.1 CRU operates as an intermediary under Section 79 of the Information Technology Act, 2000.
+7.9.2 The Company shall not be liable for unlawful content uploaded by users, provided it acts upon obtaining actual knowledge.
+7.10 Policy Updates
+7.10.1 This Policy may be updated periodically to reflect:
+	•	(a) Legal developments
+	•	(b) Regulatory changes
+	•	(c) Child protection standards
+7.10.2 Continued use of CRU constitutes acceptance of updates.
+
+POLICY 8: POLITICAL ADVERTISING & SPONSORED CONTENT POLICY
+Compliance Version
+8.1 Purpose
+8.1.1 This Policy governs political advertising and sponsored political communication on CRU.
+8.1.2 CRU permits political discussion and paid political advertisements subject to strict compliance with applicable Indian law, including:
+	•	(a) Representation of the People Act, 1951
+	•	(b) Information Technology Act, 2000
+	•	(c) Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021
+8.1.3 CRU operates as a neutral intermediary and does not endorse any political ideology.
+8.2 Definition of Political Advertisement
+8.2.1 A "Political Advertisement" includes any paid content that:
+	•	(a) Promotes or opposes a political party
+	•	(b) Promotes or opposes a political candidate
+	•	(c) Advocates public policy positions
+	•	(d) Seeks to influence electoral outcomes
+	•	(e) Encourages voting behavior
+8.2.2 Unpaid political discussion by users is not classified as advertising unless compensation is involved.
+8.3 Mandatory Disclosure Requirements
+8.3.1 All paid political advertisements must:
+	•	(a) Clearly label Content as "Sponsored Political Advertisement" or equivalent disclosure
+	•	(b) Disclose the full legal name of the sponsor (individual, entity, or organization)
+	•	(c) Provide sponsor contact details
+	•	(d) Confirm lawful authorization and compliance with applicable law
+	•	(e) Confirm domestic funding source (no foreign funding)
+8.3.2 Anonymous political advertisements are strictly prohibited.
+8.4 Advertiser Verification
+8.4.1 Before accepting political advertisements, CRU may require:
+	•	(a) Government-issued identity proof
+	•	(b) Business registration documentation (if applicable)
+	•	(c) Declaration of compliance with Indian election laws
+	•	(d) Confirmation of domestic funding source
+8.4.2 CRU reserves the right to reject advertisements without explanation.
+8.5 Prohibited Political Advertising Content
+8.5.1 Political advertisements may not:
+	•	(a) Contain false statements presented as facts
+	•	(b) Misrepresent election procedures
+	•	(c) Promote voter suppression
+	•	(d) Impersonate public authorities
+	•	(e) Promote violence or unrest
+	•	(f) Contain foreign political funding promotion
+8.5.2 Advertisements violating law will be rejected or removed.
+8.6 Foreign Influence Restrictions
+8.6.1 CRU does not permit:
+	•	(a) Foreign entities to run Indian political ads
+	•	(b) Undisclosed international funding of political campaigns
+	•	(c) Political messaging that violates Indian sovereignty laws
+8.6.2 Where applicable, advertiser nationality verification may be required.
+8.7 AI & Moderation Oversight
+8.7.1 Political advertisements may be subject to:
+	•	(a) AI screening
+	•	(b) Manual review
+	•	(c) Legal review (where necessary)
+8.7.2 CRU reserves the right to:
+	•	(a) Restrict distribution
+	•	(b) Remove advertisements
+	•	(c) Suspend advertiser accounts
+8.8 Record Retention
+8.8.1 CRU maintains internal records of:
+	•	(a) Political advertisements
+	•	(b) Sponsor identity
+	•	(c) Ad duration
+	•	(d) Targeting parameters
+	•	(e) Payment records
+8.8.2 Records may be retained for regulatory compliance and audit purposes.
+8.9 Targeting Restrictions
+8.9.1 CRU does not permit:
+	•	(a) Targeted political advertising based on sensitive personal data
+	•	(b) Micro-targeting using inferred political beliefs
+	•	(c) Targeting individuals under 18 years of age
+8.9.2 Political ad targeting may be limited to broad demographic categories where applicable.
+8.10 Platform Neutrality
+8.10.1 CRU:
+	•	(a) Does not endorse any candidate or party
+	•	(b) Does not guarantee equal reach to all advertisers
+	•	(c) Does not provide preferential algorithmic promotion
+8.10.2 Advertisement visibility may depend on platform policies and moderation standards.
+8.11 Election Period Safeguards
+8.11.1 During official election periods, CRU may:
+	•	(a) Implement additional review procedures
+	•	(b) Temporarily restrict political ad categories
+	•	(c) Increase monitoring for misinformation
+	•	(d) Cooperate with lawful directives from competent authorities
+8.12 Disclaimer of Liability
+8.12.1 CRU acts as an intermediary platform.
+8.12.2 The Company is not responsible for:
+	•	(a) Accuracy of advertiser claims
+	•	(b) Political positions expressed in advertisements
+	•	(c) Electoral outcomes influenced by advertisements
+8.12.3 Advertisers are solely responsible for compliance with applicable law.
+8.13 Violations & Enforcement
+8.13.1 Violation of this Policy may result in:
+	•	(a) Immediate ad removal
+	•	(b) Account suspension
+	•	(c) Permanent ban
+	•	(d) Reporting to lawful authorities where required
+8.14 Policy Updates
+8.14.1 This Policy may be updated periodically to comply with evolving legal and regulatory requirements.
+8.14.2 Continued use of CRU constitutes acceptance of updated terms.
+
+POLICY 9: GRIEVANCE REDRESSAL MECHANISM
+Formal Compliance Version
+9.1 Legal Basis
+9.1.1 This Grievance Redressal Mechanism is established in compliance with:
+	•	(a) Information Technology Act, 2000
+	•	(b) Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021
+9.1.2 CRU operates as an intermediary and has implemented this mechanism to address complaints in a transparent and time-bound manner.
+9.2 Appointment of Grievance Officer
+9.2.1 In accordance with applicable law, CRU has appointed:
+Name: Nitheesh Kumar Designation: Grievance Officer Entity: Cru (Operated by Cruvels Private Limited) Registered Office: Building bearing No.19/35, V456, First Floor, Mount Road, Little Mount, Chennai-600015, Tamil Nadu, India Email: grievance@cruvels.com
+9.2.2 The Grievance Officer is responsible for handling user complaints and ensuring regulatory compliance.
+9.3 Scope of Complaints
+9.3.1 Users may submit complaints regarding:
+	•	(a) Content removal or restriction
+	•	(b) Privacy concerns
+	•	(c) Intellectual property violations
+	•	(d) Political advertisement disputes
+	•	(e) Harassment or abuse
+	•	(f) Impersonation
+	•	(g) Violation of Community Guidelines
+	•	(h) Any other violation of platform policies
+9.4 Complaint Submission Process
+9.4.1 Complaints must include:
+	•	(a) Full name of complainant
+	•	(b) Contact information
+	•	(c) Description of issue
+	•	(d) URL or location of disputed content
+	•	(e) Supporting documentation (if applicable)
+	•	(f) Declaration that information provided is accurate
+9.4.2 Complaints should be sent to: Email: grievance@cruvels.com Subject Line: Formal Grievance – [Issue Type]
+9.5 Acknowledgment Timeline
+9.5.1 Complaints will be acknowledged within 24 hours of receipt.
+9.6 Resolution Timeline
+9.6.1 Complaints will be reviewed and resolved within 15 days from acknowledgment.
+9.6.2 In cases requiring legal consultation, additional time may be required, and the complainant will be informed accordingly.
+9.7 Takedown Compliance
+9.7.1 Where required by law:
+	•	(a) Content may be disabled within 36 hours upon valid legal notice
+	•	(b) Emergency removal may occur for unlawful or harmful content
+9.7.2 All actions will be documented internally.
+9.8 Appeals
+9.8.1 Users dissatisfied with moderation decisions may:
+	•	(a) Submit a formal appeal via email
+	•	(b) Provide additional supporting context
+9.8.2 Appeals will be reviewed by a human reviewer independent of the original decision where feasible.
+9.9 Repeat Abuse & Misuse
+9.9.1 Frivolous, malicious, or abusive complaints may result in:
+	•	(a) Warning
+	•	(b) Restriction of complaint privileges
+	•	(c) Account suspension (where applicable)
+9.10 Regulatory Cooperation
+9.10.1 CRU may:
+	•	(a) Provide complaint records to lawful authorities
+	•	(b) Comply with government directives
+	•	(c) Maintain logs for regulatory reporting
+9.11 Record Retention
+9.11.1 CRU maintains internal records of:
+	•	(a) Complaints received
+	•	(b) Actions taken
+	•	(c) Resolution outcomes
+9.11.2 For compliance and audit purposes.
+9.12 Transparency
+9.12.1 CRU may publish periodic summaries of:
+	•	(a) Number of complaints received
+	•	(b) Categories of complaints
+	•	(c) Action taken
+9.12.2 To promote accountability and trust.
+
+POLICY 10: REFUND & PAYMENT POLICY
+Monetization Version
+10.1 Purpose
+10.1.1 This Refund & Payment Policy governs all financial transactions conducted on CRU.
+10.1.2 CRU is owned and operated by Cruvels Private Limited, Chennai, India.
+10.1.3 By making any payment on CRU, you agree to this Policy.
+10.2 Payment Processing
+10.2.1 All payments on CRU are processed through authorized third-party payment gateways.
+10.2.2 CRU:
+	•	(a) Does not store complete card or banking details
+	•	(b) Does not control third-party gateway processing systems
+	•	(c) Is not responsible for payment gateway outages
+10.2.3 Users agree to comply with payment gateway terms.
+10.3 Pricing & Charges
+10.3.1 CRU may offer:
+	•	(a) Subscription plans
+	•	(b) Premium features
+	•	(c) Sponsored promotion services
+	•	(d) Political advertisement placement
+10.3.2 All applicable fees will be clearly displayed before payment confirmation.
+10.3.3 CRU reserves the right to modify pricing at its discretion.
+10.4 Subscription Terms
+10.4.1 If subscription services are offered:
+	•	(a) Billing may be monthly or annually
+	•	(b) Auto-renewal may apply unless canceled before renewal date
+	•	(c) Users are responsible for managing subscription settings
+10.4.2 Failure to cancel before renewal may result in automatic charges.
+10.5 Refund Policy
+10.5.1 Unless otherwise stated, all payments are non-refundable.
+10.5.2 Refunds may be granted only under the following circumstances:
+	•	(a) Duplicate transactions
+	•	(b) Unauthorized charges verified by payment provider
+	•	(c) Technical billing errors directly attributable to CRU
+10.5.3 Refund requests must be submitted within 7 days of transaction date to: legal@cruvels.com
+10.6 Political Advertisement Payments
+10.6.1 Payments made for political advertisements:
+	•	(a) Are non-refundable once advertisement review begins
+	•	(b) Are non-refundable after advertisement is published
+	•	(c) May be refunded only if rejected before review
+10.6.2 Advertisers are responsible for ensuring compliance before payment.
+10.7 Chargebacks & Payment Disputes
+10.7.1 If a user initiates a chargeback:
+	•	(a) CRU may suspend the associated account
+	•	(b) Access to paid services may be revoked
+	•	(c) Additional verification may be required
+10.7.2 Fraudulent chargebacks may result in permanent account termination.
+10.8 Taxes
+10.8.1 Users are responsible for applicable taxes unless otherwise stated.
+10.8.2 CRU may include GST or other applicable taxes in pricing.
+10.9 Payment Security
+10.9.1 CRU relies on third-party payment providers with:
+	•	(a) Encryption
+	•	(b) Fraud monitoring
+	•	(c) Secure processing standards
+10.9.2 CRU does not guarantee uninterrupted payment availability.
+10.10 Cancellation Policy
+10.10.1 Users may cancel subscriptions at any time.
+10.10.2 Cancellation:
+	•	(a) Prevents future renewals
+	•	(b) Does not retroactively refund previous payments
+10.10.3 Access to premium features may continue until the end of billing period.
+10.11 Limitation of Liability
+10.11.1 To the fullest extent permitted by law, CRU shall not be liable for:
+	•	(a) Payment gateway failures, outages, or technical errors
+	•	(b) Banking network failures or disruptions
+	•	(c) Third-party payment processor errors or delays
+	•	(d) Delayed settlement or refund processing caused by external providers
+	•	(e) Transaction failures due to insufficient funds, expired cards, or User error
+	•	(f) Indirect, incidental, consequential, or punitive financial losses
+10.11.2 CRU is not responsible for financial processing errors caused by external payment providers.
+10.11.3 Total liability for payment-related disputes shall not exceed the amount paid by the User for the specific disputed service, subject to the master limitation of liability clause in the Terms of Service.
+10.12 Fraud Prevention
+10.12.1 CRU reserves the right to:
+	•	(a) Suspend suspicious transactions
+	•	(b) Request identity verification
+	•	(c) Reject payments deemed high-risk
+10.12.2 Fraudulent activity may be reported to lawful authorities.
+10.13 Governing Law
+10.13.1 This Policy shall be governed by the laws of India.
+10.13.2 Disputes shall be subject to jurisdiction of courts in Chennai, Tamil Nadu.
+10.14 Policy Updates
+10.14.1 CRU may update this Policy periodically.
+10.14.2 Continued use of paid services constitutes acceptance of revised terms.
+
+POLICY 11: DATA RETENTION POLICY
+Compliance Version
+11.1 Purpose
+11.1.1 This Data Retention Policy defines how long CRU retains different categories of data and the principles governing deletion, archival, and lawful preservation.
+11.1.2 This Policy aligns with:
+	•	(a) Information Technology Act, 2000
+	•	(b) Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021
+	•	(c) Digital Personal Data Protection Act, 2023
+11.2 Retention Principles
+11.2.1 CRU follows these principles:
+	•	(a) Data is retained only as long as necessary
+	•	(b) Legal obligations override deletion requests where applicable
+	•	(c) Regulatory compliance data may be preserved
+	•	(d) Archived data is access-restricted
+11.3 Categories of Data & Retention Periods
+11.3.1 Account Information
+	•	(a) Retained while account is active
+	•	(b) Deleted or anonymized upon verified account deletion request
+	•	(c) Backup copies may persist temporarily in secure archives
+11.3.2 User-Generated Content
+	•	(a) May be retained for an indefinite period subject to operational requirements and legal obligations, unless:
+	•	(i) User deletes Content
+	•	(ii) Account is terminated
+	•	(iii) Legal removal is required
+	•	(b) Content removed for policy violations may be retained internally for compliance documentation, legal defense, and audit purposes
+11.3.3 Moderation Records
+	•	(a) Retained for internal compliance and audit purposes
+	•	(b) May be stored for a reasonable period to defend legal claims
+11.3.4 Political Advertisement Records
+	•	(a) Retained for regulatory compliance
+	•	(b) Includes sponsor details, ad duration, and targeting parameters
+	•	(c) Maintained for audit and transparency purposes
+11.3.5 Payment & Transaction Records
+	•	(a) Retained for tax, financial, and fraud prevention compliance
+	•	(b) Maintained in accordance with applicable accounting regulations
+11.3.6 Technical Logs & Security Data
+	•	(a) Retained for security monitoring and fraud detection
+	•	(b) Deleted or anonymized periodically based on operational necessity
+11.4 Account Deletion Requests
+11.4.1 Upon receiving a valid deletion request:
+	•	(a) Account access is disabled
+	•	(b) Personal data is removed from active systems
+	•	(c) Certain records may be retained where legally required
+	•	(d) Content may be anonymized where full deletion is impractical
+11.4.2 CRU reserves the right to retain minimal data necessary for:
+	•	(a) Fraud prevention
+	•	(b) Legal compliance
+	•	(c) Dispute resolution
+11.5 Legal Preservation Obligations
+11.5.1 CRU may preserve data beyond standard retention periods if:
+	•	(a) Required by court order
+	•	(b) Subject to government directive
+	•	(c) Necessary for ongoing investigation
+	•	(d) Required to defend legal claims
+11.6 Data Archiving & Security
+11.6.1 Archived data:
+	•	(a) Is access-restricted
+	•	(b) Is protected by encryption
+	•	(c) Is stored in secure infrastructure
+11.6.2 Only authorized personnel may access retained records.
+11.7 Anonymization
+11.7.1 Where feasible, CRU may anonymize data instead of full deletion.
+11.7.2 Anonymized data may be retained for:
+	•	(a) Statistical analysis
+	•	(b) Research
+	•	(c) Platform improvement
+11.7.3 Anonymized data cannot reasonably identify individuals.
+11.8 User Rights & Retention Transparency
+11.8.1 Users may:
+	•	(a) Request information about retained data
+	•	(b) Request deletion subject to legal exceptions
+	•	(c) Seek clarification regarding retention categories
+11.8.2 Requests may be submitted to: legal@cruvels.com
+11.9 Limitation of Liability
+11.9.1 CRU shall not be liable for retention required under law.
+11.9.2 Deletion requests may not override:
+	•	(a) Regulatory obligations
+	•	(b) Law enforcement requirements
+	•	(c) Financial compliance obligations
+11.10 Policy Updates
+11.10.1 This Policy may be updated periodically to reflect:
+	•	(a) Legal changes
+	•	(b) Regulatory requirements
+	•	(c) Operational improvements
+11.10.2 Continued use of CRU constitutes acceptance of updates.
+
+POLICY 12: TRANSPARENCY & ACCOUNTABILITY POLICY
+Governance Version
+12.1 Purpose
+12.1.1 CRU is committed to transparency, fairness, and responsible governance.
+12.1.2 This Policy outlines how CRU:
+	•	(a) Reports moderation activity
+	•	(b) Discloses political advertising information
+	•	(c) Handles government requests
+	•	(d) Maintains internal accountability
+12.1.3 This Policy supports compliance with:
+	•	(a) Information Technology Act, 2000
+	•	(b) Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021
+12.2 Transparency Reporting
+12.2.1 CRU may periodically publish a Transparency Report containing aggregated data on:
+	•	(a) Number of user complaints received
+	•	(b) Categories of complaints
+	•	(c) Content removal actions taken
+	•	(d) Account suspensions and bans
+	•	(e) Government takedown requests
+	•	(f) Copyright notices
+	•	(g) Political advertisements accepted and rejected
+12.2.2 Reports will not disclose personal user data.
+12.3 Government & Legal Requests
+12.3.1 CRU may receive:
+	•	(a) Court orders
+	•	(b) Government blocking directives
+	•	(c) Law enforcement data requests
+12.3.2 Where legally permissible, CRU may disclose:
+	•	(a) The number of such requests
+	•	(b) The type of requests
+	•	(c) General compliance outcomes
+12.3.3 CRU complies only with lawful and valid directives.
+12.4 Political Advertisement Transparency
+12.4.1 CRU may maintain internal records of:
+	•	(a) Political advertiser identity
+	•	(b) Duration of advertisement
+	•	(c) Nature of sponsored content
+	•	(d) Broad targeting criteria
+12.4.2 Where appropriate, CRU may disclose aggregated political advertising statistics.
+12.5 Moderation Accountability
+12.5.1 CRU moderation is based on:
+	•	(a) Published Community Guidelines
+	•	(b) Content Policy standards
+	•	(c) AI-assisted review with human oversight
+12.5.2 CRU does not moderate based on political ideology but on rule violations.
+12.5.3 Appeal mechanisms are available for affected users.
+12.6 Algorithmic Accountability
+12.6.1 CRU may provide general information about:
+	•	(a) Use of AI moderation tools and contextual information systems
+	•	(b) Content visibility adjustments and ranking principles
+	•	(c) Civic Credibility Score factors (in general terms)
+	•	(d) Enforcement categories and moderation principles
+12.6.2 CRU is not required to disclose proprietary algorithms, scoring formulas, ranking systems, Civic Credibility Score calculation methods, or platform integrity mechanisms.
+12.6.3 Such systems constitute confidential business information and trade secrets, and disclosure could enable manipulation or abuse.
+12.7 Internal Governance
+12.7.1 CRU maintains:
+	•	(a) Internal moderation logs
+	•	(b) Escalation protocols
+	•	(c) Documentation of enforcement decisions
+	•	(d) Periodic internal review of moderation consistency
+12.7.2 Senior management oversight may be applied in politically sensitive cases.
+12.8 User Privacy Protection
+12.8.1 Transparency reports will:
+	•	(a) Avoid publishing personal data
+	•	(b) Avoid identifying complainants
+	•	(c) Avoid exposing private user information
+12.8.2 All disclosures are subject to Privacy Policy safeguards.
+12.9 Limitations of Transparency
+12.9.1 CRU may withhold certain details where:
+	•	(a) Disclosure would violate law
+	•	(b) Disclosure would compromise security
+	•	(c) Disclosure would interfere with investigations
+	•	(d) Disclosure would reveal sensitive internal processes
+12.10 Commitment to Improvement
+12.10.1 CRU commits to:
+	•	(a) Periodically reviewing transparency practices
+	•	(b) Enhancing fairness mechanisms
+	•	(c) Adapting to evolving regulatory expectations
+12.11 Policy Updates
+12.11.1 This Policy may be updated to reflect:
+	•	(a) Legal developments
+	•	(b) Regulatory guidance
+	•	(c) Platform evolution
+12.11.2 Continued use of CRU constitutes acceptance of updated terms.
+
+PART B: COMPANY CONTACT INFORMATION
+
+13. GRIEVANCE OFFICER DETAILS
+Name: Nitheesh Kumar Designation: Grievance Officer Entity: Cru (Operated by Cruvels Private Limited) Registered Office: Building bearing No.19/35, V456, First Floor, Mount Road, Little Mount, Chennai-600015, Tamil Nadu, India Email: grievance@cruvels.com Phone: [To be inserted]
+Complaint Response Times:
+	•	Acknowledgment: Within 24 hours
+	•	Resolution: Within 15 days
+	•	Takedown (where required by law): Within 36 hours
+
+14. LEGAL CONTACT INFORMATION
+For Legal Inquiries: Email: legal@cruvels.com
+For Data Protection & Privacy Requests: Email: legal@cruvels.com
+For Copyright Infringement Notices: Email: grievance@cruvels.com Subject: Copyright Infringement Notice
+For Child Safety Urgent Reports: Email: grievance@cruvels.com Subject: Urgent Child Safety Concern
+
+END OF MASTER POLICY DOCUMENT
+Document Version: 1.0 Last Consolidated: [Insert Date] Next Review Date: [Insert Date]
+Legal Disclaimer: This document consolidates all platform policies of CRU operated by Cruvels Private Limited. All policies are effective from the date of platform launch and are subject to updates as required by applicable Indian law and regulatory guidance. Continued use of the platform constitutes acceptance of these policies as amended from time to time.
+Governing Law: All policies are governed by the laws of India. Disputes shall be subject to the exclusive jurisdiction of courts in Chennai, Tamil Nadu, India.

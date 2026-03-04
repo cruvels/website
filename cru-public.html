@@ -7,7 +7,24 @@
       name="description"
       content="Cru is a structured public platform for evidence-based participation, policy-governed rewards, and transparent trust systems."
     />
+    <meta name="keywords" content="Cru, CRU platform, Cruvels Cru, public debate platform, evidence-based participation, structured public discourse, contributor platform" />
+    <meta name="author" content="Cruvels" />
+    <meta name="robots" content="index, follow" />
+    <link rel="canonical" href="https://cruvels.com/cru" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Cru" />
+    <meta property="og:locale" content="en_IN" />
+    <meta property="og:title" content="Cru | Structured Public Platform" />
+    <meta property="og:description" content="Cru is a structured public platform for evidence-based participation, policy-governed rewards, and transparent trust systems." />
+    <meta property="og:image" content="https://cruvels.com/cru-logo.png" />
+    <meta property="og:url" content="https://cruvels.com/cru" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Cru | Structured Public Platform" />
+    <meta name="twitter:description" content="Publishing. Debate. Credibility. Policy-governed rewards. Built and operated by Cruvels." />
+    <meta name="twitter:image" content="https://cruvels.com/cru-logo.png" />
     <title>Cru | Structured Public Platform</title>
+    <link rel="icon" type="image/png" href="cru-logo.png" />
+    <link rel="apple-touch-icon" href="cru-logo.png" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
@@ -15,6 +32,43 @@
       rel="stylesheet"
     />
     <link rel="stylesheet" href="cru-public.css" />
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Organization",
+            "@id": "https://cruvels.com/#organization",
+            "name": "Cruvels",
+            "url": "https://cruvels.com/",
+            "logo": "https://cruvels.com/cruvels-logo.png",
+            "email": "founder@cruvels.com",
+            "telephone": "+91-6384820031"
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://cruvels.com/#website",
+            "url": "https://cruvels.com/",
+            "name": "Cruvels",
+            "publisher": {
+              "@id": "https://cruvels.com/#organization"
+            }
+          },
+          {
+            "@type": "SoftwareApplication",
+            "@id": "https://cruvels.com/cru#softwareapplication",
+            "name": "Cru",
+            "url": "https://cruvels.com/cru",
+            "applicationCategory": "SocialNetworkingApplication",
+            "operatingSystem": "Web",
+            "publisher": {
+              "@id": "https://cruvels.com/#organization"
+            },
+            "description": "Cru is a structured public platform where users can publish, debate, share evidence, build credibility, and participate under policy-governed systems."
+          }
+        ]
+      }
+    </script>
   </head>
   <body>
     <div class="scene" aria-hidden="true">
@@ -25,7 +79,7 @@
 
     <header class="site-header">
       <div class="container nav-wrap">
-        <a class="brand" href="cru-public.html" aria-label="Cru home">
+        <a class="brand" href="/cru" aria-label="Cru home">
           <img src="cru-logo.png" alt="Cru logo" class="brand-logo-icon" />
           <span class="brand-text">
             <strong>Cru</strong>
@@ -42,8 +96,8 @@
           <a href="#earnings">Earnings</a>
           <a href="#advertise">Advertise</a>
           <a href="#access">Early Access</a>
-          <a href="careers.html">Careers</a>
-          <a class="pill-link" href="index.html">Cruvels</a>
+          <a href="/careers">Careers</a>
+          <a class="pill-link" href="/">Cruvels</a>
         </nav>
       </div>
     </header>
@@ -63,6 +117,11 @@
               <a class="btn btn-secondary" href="#actions">Explore User Experience</a>
               <a class="btn btn-tertiary" href="#earnings">View Participation Model</a>
             </div>
+            <div class="hero-metrics" aria-label="Cru platform trust highlights">
+              <span>Evidence-led participation</span>
+              <span>Transparent policy governance</span>
+              <span>Credibility-aware reputation model</span>
+            </div>
           </div>
 
           <div class="conversation-sphere" aria-label="Cru interaction network">
@@ -73,6 +132,14 @@
             <span class="node n4">Earn</span>
             <span class="node n5">Govern</span>
           </div>
+        </div>
+      </section>
+      <section class="trust-strip reveal" aria-label="Cru trust markers">
+        <div class="container trust-strip-wrap">
+          <p>Bot and manipulation monitoring</p>
+          <p>Policy-defined moderation actions</p>
+          <p>Appeals and escalation pathways</p>
+          <p>Data and participation transparency standards</p>
         </div>
       </section>
 
@@ -204,7 +271,7 @@
             and verified campaign collaborations on Cru.
           </p>
           <p class="note"><strong>Cru Contact:</strong> cru@cruvels.com</p>
-          <p class="note"><strong>Advertising Contact:</strong> ads@cruvel.com | <strong>Mobile:</strong> +91 6384820031</p>
+          <p class="note"><strong>Advertising Contact:</strong> ads@cruvels.com | <strong>Mobile:</strong> +91 6384820031</p>
             <ul class="access-list">
               <li>Policy-governed ad placement pathways</li>
               <li>Contextual sponsorship models</li>
@@ -214,9 +281,9 @@
           </div>
 
           <form class="ad-form" novalidate>
-            <label>Organization Name<input type="text" name="organization_name" required /></label>
-            <label>Work Email<input type="email" name="work_email" required /></label>
-            <label>Campaign Objective<input type="text" name="campaign_objective" required /></label>
+            <label>Organization Name<input type="text" name="organization_name" autocomplete="organization" placeholder="Organization name" required /></label>
+            <label>Work Email<input type="email" name="work_email" autocomplete="email" placeholder="name@organization.com" required /></label>
+            <label>Campaign Objective<input type="text" name="campaign_objective" placeholder="What do you want to achieve?" required /></label>
             <label>
               Interest Type
               <select name="interest_type" required>
@@ -228,6 +295,7 @@
               </select>
             </label>
             <button class="btn btn-primary" type="submit">Submit Advertising Interest</button>
+            <p class="form-note">All ad inquiries are reviewed for policy alignment before onboarding.</p>
             <p class="ad-form-status" role="status" aria-live="polite"></p>
           </form>
         </div>
@@ -335,8 +403,8 @@
           </div>
 
           <form class="access-form" novalidate>
-            <label>Full Name<input type="text" name="full_name" required /></label>
-            <label>Email Address<input type="email" name="email" required /></label>
+            <label>Full Name<input type="text" name="full_name" autocomplete="name" placeholder="Your full name" required /></label>
+            <label>Email Address<input type="email" name="email" autocomplete="email" placeholder="you@example.com" required /></label>
             <label>
               Access Track
               <select name="access_track" required>
@@ -348,6 +416,7 @@
               </select>
             </label>
             <button class="btn btn-primary" type="submit">Request Early Access</button>
+            <p class="form-note">Invites are issued in cohorts based on program and moderation readiness.</p>
             <p class="form-status" role="status" aria-live="polite"></p>
           </form>
         </div>
@@ -362,20 +431,40 @@
             Cru is a public participation platform. Users are responsible for the content they publish.
             Platform policies evolve to maintain integrity, compliance, and sustainability.
           </p>
-          <a href="index.html" class="inline-link">Visit Cruvels Corporate Website</a>
+          <a href="/" class="inline-link">Visit Cruvels Corporate Website</a>
         </div>
       </section>
     </main>
 
     <footer class="site-footer">
-      <div class="container footer-wrap">
-        <p>&copy; <span id="year"></span> Cru. All rights reserved.</p>
-        <div class="footer-links">
-          <a href="index.html">Cruvels</a>
-          <a href="careers.html">Careers</a>
-          <a href="legal.html">Legal</a>
-          <a href="privacy.html">Privacy</a>
-          <a href="compliance.html">Compliance</a>
+      <div class="container">
+        <div class="policy-footer-head">
+          <p class="policy-footer-title">Cru Policy Center</p>
+          <p class="policy-footer-note">All policies below apply specifically to the Cru platform and are individually accessible for legal, regulatory, and user transparency purposes.</p>
+        </div>
+        <div class="policy-link-grid">
+          <a href="/cru-policies/privacy-policy">Privacy Policy</a>
+          <a href="/cru-policies/terms-of-service">Terms of Service</a>
+          <a href="/cru-policies/community-guidelines">Community Guidelines</a>
+          <a href="/cru-policies/content-policy">Content Policy</a>
+          <a href="/cru-policies/ai-ethics-moderation-policy">AI Ethics &amp; Moderation Policy</a>
+          <a href="/cru-policies/copyright-takedown-policy">Copyright &amp; Takedown Policy</a>
+          <a href="/cru-policies/minor-protection-policy">Minor Protection Policy</a>
+          <a href="/cru-policies/political-advertising-policy">Political Advertising Policy</a>
+          <a href="/cru-policies/grievance-redressal">Grievance Redressal Mechanism</a>
+          <a href="/cru-policies/refund-payment-policy">Refund &amp; Payment Policy</a>
+          <a href="/cru-policies/data-retention-policy">Data Retention Policy</a>
+          <a href="/cru-policies/transparency-accountability-policy">Transparency &amp; Accountability Policy</a>
+        </div>
+        <div class="footer-wrap">
+          <p>&copy; <span id="year"></span> Cru. All rights reserved.</p>
+          <div class="footer-links">
+            <a href="/">Cruvels</a>
+            <a href="/careers">Careers</a>
+            <a href="/legal">Legal</a>
+            <a href="/privacy">Privacy</a>
+            <a href="/compliance">Compliance</a>
+          </div>
         </div>
       </div>
     </footer>
